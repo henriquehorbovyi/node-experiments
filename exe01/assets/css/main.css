@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: monospace;
+}
+
+body{
+	
+	color:#EFEFEF;
+	background: #111920;
+}
+
+h1{
+	margin: 50px 0;
+}
+
+
+form input[type='text'],form input[type='password']{
+	width:256px;
+	height: 30px;
+	border:none;
+	outline: none;
+	padding-left: 10px;
+	margin-bottom:20px;
+}
+
+form input[type='submit']{
+	width: 266px;
+	height: 30px;
+	border:none;
+	outline: none;
+}
